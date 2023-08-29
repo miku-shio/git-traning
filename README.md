@@ -1,9 +1,8 @@
-# Git/GitHubの練習
-Gitやってまーす
+# Git/GitHub の練習
 
-## Gitの基本
+## Git の基本
 
-### Gitリポジトリの初期化
+### Git リポジトリの初期化
 
 ```
 git init
